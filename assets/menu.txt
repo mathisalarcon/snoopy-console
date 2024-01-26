@@ -1,0 +1,9 @@
+
+        1. Affichier les regles du jeu
+        2. Lancer une nouvelle partie
+        3. Charger une partie sauvegardee
+        4. Charger un niveau
+        5. Scores
+        6. Quitter
+
+SELECTIONNEZ UNE OPTION:

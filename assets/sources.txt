@@ -1,0 +1,2 @@
+https://www.unilim.fr/pages_perso/patrick.poulingeas/Enseignements/2004_2005/L2/fichiers_C.pdf
+https://stackoverflow.com/questions/17598572/read-and-write-to-binary-files-in-c

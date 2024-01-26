@@ -1,0 +1,16 @@
+_____________________ ________.____     ___________ _________
+\______   \_   _____//  _____/|    |    \_   _____//   _____/
+ |       _/|    __)_/   \  ___|    |     |    __)_ \_____  \
+ |    |   \|        \    \_\  \    |___  |        \/        \
+ |____|_  /_______  /\______  /_______ \/_______  /_______  /
+        \/        \/        \/        \/        \/        \/
+
+Bienvenue a toi jeune aventurier dans la Revanche de de Snoopy, jespere pour toi que tu es bien prepare, il te faudra recuperer les 4 oiseaux afin dobtenir le meilleur score, et plus tu vas vite plus tu gagnes de points ! Mais gare aux pieges, en effet il faudra faire attention a ne pas se prend la balle mais aussi a ne pas de faire gener par des blocs. Au passage peut-etre que certains blocs sont pieges dont prend garde a toi. Tu auras donc 120 secondes afin de remplir ta mission et si tu echoues tu devras recommencer... Mais ne prend pas trop gout a lechec car tu as seulement 3 vies, apres ca cest GAME OVER !
+
+Pour jouer, utilise les fleches de ton clavier
+Pour casser les blocs, utilise la touche espace lorsqu'ils sont en face de toi.
+Pour pousser les blocs, fonce dedans
+Pour mettre le jeu en pause, utilise la touche P
+Pour sauvegarder la partie, utilise la touche S
+Pour recommencer le niveau, utilise la touche R (attention, tu perdras 1 vie)
+Pour quitter le jeu, utilise la touche Q
